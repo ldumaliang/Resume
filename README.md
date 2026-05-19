@@ -4,39 +4,45 @@
 
 ## PROFESSIONAL SUMMARY
 ---
-Senior Software Engineer with 8+ years of experience specializing in backend development, systems architecture, and DevOps. Recognized for technical leadership, acting as deputy lead for a 12-person engineering team and managing CI/CD pipelines to ensure seamless software delivery. Expert in developing robust solutions using Java, C++, and PostgreSQL, with a proven ability to architect containerized microservices and troubleshoot complex, system-wide network issues. Adept at driving Agile methodologies and collaborating with cross-functional stakeholders. Holds an active Secret clearance.
+Software Engineer IV with 8+ years of experience specializing in high-availability backend development, microservices architecture, and DevOps. Proven technical leader and deputy lead for 12-person teams, adept at managing automated build pipelines and diagnosing complex systems. Expert in Java, C++, and database engineering with an active Secret clearance.
 
 ## TECHNICAL SKILLS
 ---
 - **Languages:** C++, Java, Bash, SQL, Python
-- **Frameworks & Technologies:** Spring, AMQP, CORBA, GraphQL, Postgres, Cameo
-- **DevOps & Tools:** Git, Ansible Playbooks, Atlassian Products (Jira, Bamboo, Bitbucket), Docker (Containerization/Microservices)
-- **Systems & Architecture:** Linux (RHEL, CentOS, Ubuntu), Network Architecture
+- **Backend & Database:** Spring, AMQP, CORBA, GraphQL, PostgreSQL
+- **DevOps & Platforms:** Docker (Containerization), Ansible, Git, Linux (RHEL, CentOS, Ubuntu)
+- **Systems & Tools:** Network Architecture, Atlassian Suite (Jira, Bamboo, Bitbucket), Cameo, AI-Assisted Development (Windsurf, Codex)
 
 ## PROFESSIONAL EXPERIENCE
 ---
 **Arcfield (formerly Rite-Solutions)** | *Middletown, RI*  
-*Software Engineer* | **2017 – Present**
+*Software Engineer IV* | **2021 – Present**
 
-**Inter-Subsystem Monitoring Tool** | *2021 – Present*
-- Act as deputy lead for a 12-person engineering team, assuming full management of daily operations and deliverables during leadership absences.
-- Represent the team in high-level stakeholder meetings and deliver technical presentations to leadership.
-- Fulfill build engineer duties by managing the build pipeline, overseeing the CI/CD process, and maintaining the software release schedule.
-- Troubleshoot complex system-wide issues across multiple servers and networks, utilizing expertise in switch configuration and network diagnostics.
-- Develop back-end software solutions utilizing Java, AMQP, and Postgres technologies.
-- Create DevOps workflows and streamline development environments to improve team efficiency.
-- Served as acting Scrum Master, facilitating Agile ceremonies and driving efficient sprint execution.
+**Inter-Subsystem Monitoring Tool**
+- Direct daily engineering operations and deliverables for a 12-person team as Deputy Lead, ensuring project milestones are met consistently during leadership absences.
+- Represent the engineering team in high-level stakeholder and client meetings, delivering technical presentations that align development velocity with project requirements.
+- Manage the CI/CD build pipeline and software release schedule, automating integration processes to streamline deliverables and maintain launch timelines.
+- Diagnose and resolve complex, system-wide network and server anomalies in production environments, ensuring the continuous operational availability of the ISMT application.
+- Engineer high-availability backend services using Java, AMQP, and PostgreSQL to coordinate real-time data flows between critical tactical subsystems.
+- Architect DevOps workflows and containerized development environments, eliminating local system discrepancies and accelerating developer onboarding.
+- Facilitate Agile ceremonies and resolve team roadblocks, stabilizing sprint planning predictability and accelerating delivery velocity.
 
-**Cyber Dashboard** | *2020 – 2021*
-- Developed back-end solutions using Java, GraphQL, and Postgres technologies.
-- Implemented DevOps workflows using the Atlassian suite products (Jira, Bamboo, Bitbucket).
-- Successfully migrated the software to a containerized micro-service application.
-- Procured and setup a full four-rack tactical equivalent testing environment.
+**Arcfield (formerly Rite-Solutions)** | *Middletown, RI*  
+*Software Engineer II* | **2020 – 2021**
 
-**On-board Team Training (Master Controller)** | *2017 – 2020*
-- Designed and implemented backend software features utilizing C++, CORBA, and AMQP technologies.
-- Discovered and conducted troubleshooting with existing issues within the legacy software.
-- Conducted full coverage testing for multiple versions of the software.
+**Cyber Dashboard**
+- Developed data-dense backend APIs using Java, GraphQL, and PostgreSQL to aggregate and dynamically serve network security metrics.
+- Configured automated DevOps workflows using Jira, Bamboo, and Bitbucket, establishing standardized CI/CD pipelines for the engineering team.
+- Migrated legacy monolithic software to a containerized Docker microservices architecture, improving application scalability and deployment isolation.
+- Procured and engineered a full four-rack tactical equivalent testing environment, enabling high-fidelity integration verification prior to client delivery.
+
+**Arcfield (formerly Rite-Solutions)** | *Middletown, RI*  
+*Software Engineer I* | **2017 – 2020**
+
+**On-board Team Training (Master Controller)**
+- Designed and implemented critical real-time backend software features utilizing C++, CORBA, and AMQP middleware technologies.
+- Diagnosed and resolved complex legacy software defects, enhancing system stability and reducing debugging overhead for future releases.
+- Designed and executed comprehensive integration test suites across multiple software releases, validating system compatibility and ensuring high-fidelity deliverables.
 
 ## EDUCATION
 ---
